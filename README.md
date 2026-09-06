@@ -46,6 +46,8 @@ The game demonstrates how Python can be used to handle:
 
 ---
 
+
+
 ## 📂 Project Structure
 
 ```text
@@ -62,7 +64,6 @@ CodeAlpha_Hangman/
 ### 1️⃣ Install Python
 
 Make sure Python is installed on your computer.
-```
 
 ### 2️⃣ Clone the Repository
 
@@ -70,13 +71,12 @@ Make sure Python is installed on your computer.
 
 ### 4️⃣ Run the Game
 ---
+
 ## 👩‍💻 Author
 
 **CodeAlpha Python Programming Intern**
 
 This project was created as part of my learning journey in Python programming.
-
-It was a practical step toward building more Python projects and improving my programming skills.
 
 ---
 
